@@ -4,22 +4,9 @@ https://paper.bobylive.com/Security/The_Red_Team_Guide_by_Peerlyst_community.pdf
 ## Windows POCs
 https://github.com/MzHmO/Exploit-Street
 
-## NetNTLM Hash Leaks 
-https://www.securify.nl/en/blog/living-off-the-land-stealing-netntlm-hashes/
-
-## 64-bit AMSI Patch 
-<code>
-        xor eax, eax ; clear eax<br>
-        shl eax, 16 ; shift eax left by 16 bits<br>
-        or ax, 0x57 ; Set the lower 16 bits value to 0x57<br>
-        ret
-</code>
-- A custom patch for `AmsiScanBuffer` that sets the return value to `S_OK` (0x00000057), effectively bypassing AMSI by faking a clean scan result.
 
 ## Windows Shellcoding 
 https://nytrosecurity.com/
-
-https://github.com/ahmedkhlief/Ninja/blob/master/core/agents/cmd_shellcodex64.ninja
 
 
 # VR Links
@@ -92,7 +79,7 @@ https://vuln.dev/windows-kernel-exploitation-vm-setup/
 
 https://vuln.dev/tags/kernel-exploit/
 
-https://github.com/r0keb
+https://github.com/r0keb/Windows-Kernel-Shellcode
 
 ## Windows PatchGuard 
 
