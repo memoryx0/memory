@@ -1,10 +1,3 @@
-<table>
-  <tr>
-    <td>Support</td>
-    <td><a href="https://github.com/sponsors/re-belli"><img src="https://img.shields.io/badge/sponsor-%f0%9f%a4%8d-c45a93?style=for-the-badge&logo=github" alt="Sponsor" /></a></td>
-  </tr>
-</table>
-
 <details>
   <summary>DISCLAIMER</summary>
 
