@@ -5,10 +5,6 @@ https://paper.bobylive.com/Security/The_Red_Team_Guide_by_Peerlyst_community.pdf
 https://github.com/MzHmO/Exploit-Street
 
 
-## Windows Shellcoding 
-https://nytrosecurity.com/
-
-
 # VR Links
 
 ## cross-compilers 
@@ -69,28 +65,16 @@ https://www.blackhat.com/docs/us-16/materials/us-16-Yason-Windows-10-Segment-Hea
 https://www.slideshare.net/slideshow/windows-10-nt-heap-exploitation-english-version/154467191#7
 
 
-## KASLR Bypass
-
-https://github.com/r0keb/MunIntel/tree/main
-
 ## Windows Kernel exploitation 
 
 https://vuln.dev/windows-kernel-exploitation-vm-setup/
 
 https://vuln.dev/tags/kernel-exploit/
 
-https://github.com/r0keb/Windows-Kernel-Shellcode
 
 ## Windows PatchGuard 
 
 https://r0keb.github.io/posts/PatchGuard-Internals
-
-
-## Windows x64 Stack-Based Overflow 
-
-https://nytrosecurity.com/2018/01/24/stack-based-buffer-overflows-on-x64-windows/
-
-https://github.com/hvictor/targetserv-x64/tree/main
 
 ## Windows VR
 https://v-v.space/
